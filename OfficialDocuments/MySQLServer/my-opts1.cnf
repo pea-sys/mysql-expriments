@@ -1,0 +1,5 @@
+[mysqld]
+datadir = C:/mydata1
+port = 3307
+enable-named-pipe
+socket = mypipe1
