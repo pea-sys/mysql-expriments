@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+
+<resultset statement="SELECT * FROM sample.person
+" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <row>
+	<field name="person_id">1</field>
+	<field name="fname">Kapek</field>
+	<field name="lname">Sainnouine</field>
+	<field name="created" xsi:nil="true" />
+  </row>
+
+  <row>
+	<field name="person_id">2</field>
+	<field name="fname">Sajon</field>
+	<field name="lname">Rondela</field>
+	<field name="created" xsi:nil="true" />
+  </row>
+
+  <row>
+	<field name="person_id">3</field>
+	<field name="fname">Likame</field>
+	<field name="lname">?rrtmons</field>
+	<field name="created" xsi:nil="true" />
+  </row>
+
+  <row>
+	<field name="person_id">4</field>
+	<field name="fname">Slar</field>
+	<field name="lname">Manlanth</field>
+	<field name="created" xsi:nil="true" />
+  </row>
+
+  <row>
+	<field name="person_id">5</field>
+	<field name="fname">Stoma</field>
+	<field name="lname">Milu</field>
+	<field name="created" xsi:nil="true" />
+  </row>
+
+  <row>
+	<field name="person_id">6</field>
+	<field name="fname">Nirtam</field>
+	<field name="lname">Skl?d</field>
+	<field name="created" xsi:nil="true" />
+  </row>
+
+  <row>
+	<field name="person_id">7</field>
+	<field name="fname">Sungam</field>
+	<field name="lname">Dulb?d</field>
+	<field name="created" xsi:nil="true" />
+  </row>
+
+  <row>
+	<field name="person_id">8</field>
+	<field name="fname">Sraref</field>
+	<field name="lname">Encmelt</field>
+	<field name="created" xsi:nil="true" />
+  </row>
+</resultset>

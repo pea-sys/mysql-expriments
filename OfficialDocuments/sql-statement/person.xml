@@ -1,0 +1,12 @@
+<list>
+  <person person_id="1" fname="Kapek" lname="Sainnouine"/>
+  <person person_id="2" fname="Sajon" lname="Rondela"/>
+  <person person_id="3"><fname>Likame</fname><lname>Örrtmons</lname></person>
+  <person person_id="4"><fname>Slar</fname><lname>Manlanth</lname></person>
+  <person><field name="person_id">5</field><field name="fname">Stoma</field>
+    <field name="lname">Milu</field></person>
+  <person><field name="person_id">6</field><field name="fname">Nirtam</field>
+    <field name="lname">Sklöd</field></person>
+  <person person_id="7"><fname>Sungam</fname><lname>Dulbåd</lname></person>
+  <person person_id="8" fname="Sraref" lname="Encmelt"/>
+</list>
